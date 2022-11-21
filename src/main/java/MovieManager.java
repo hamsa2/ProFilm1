@@ -24,7 +24,7 @@ public class MovieManager {
 
 
     public String[] findAll() {
-        return new String[]{Arrays.toString(movies)};
+        return movies;
 
     }
 
