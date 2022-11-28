@@ -22,7 +22,6 @@ public class MovieManager {
     }
 
 
-
     public String[] findAll() {
         return movies;
 
